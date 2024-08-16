@@ -89,3 +89,24 @@
     </a> &nbsp; &nbsp;
 </p>
 
+<h3 align="left">Tools:</h3>
+<p align="left">
+    <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="eclipse" width="40" height="40"/> 
+    </a>&nbsp; &nbsp;
+    <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> 
+    </a> &nbsp; &nbsp;
+    <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" alt="dbeaver" width="40" height="40"/> 
+    </a>&nbsp; &nbsp;
+    <a href="https://www.jaspersoft.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.jaspersoft.com/sites/default/files/jaspersoft_2019.png" alt="jaspersoft" width="40" height="40"/> 
+    </a>&nbsp; &nbsp;
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+    </a> &nbsp; &nbsp;
+    <a href="https://www.bugzilla.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Bugzilla_logo_%282022%29.svg" alt="bugzilla" width="40" height="40"/> 
+    </a>
+</p>
